@@ -62,28 +62,28 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Board Member - International Student Advisory Board",
+    cardImage: "assets/images/experience-page/1000-monogram-red.jpg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Served as a campus liaison and student leader dedicated to advocating for and supporting 1200+ international students at SDSU, representing the International Student Center (ISC), and actively engaging in campus-wide initiatives to enhance the international student experience.",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "Funding Committee Member - Student Affairs and Campus Diversity",
+    cardImage: "assets/images/experience-page/1000-monogram-red.jpg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Reviewed and evaluated funding applications from various student clubs, ensuring fairness and transparency in the allocation of resources.",
   },
   {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
+    title: "Student Volunteer - National Service Scheme",
+    cardImage: "assets/images/experience-page/2023_9$largeimg_1778542124.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Engaged as a dedicated Student Volunteer for the National Service Scheme, actively contributing to community service projects and promoting social responsibility.",
   },
   {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
+    title: "Event Organiser - National Level Technical Symposium",
+    cardImage: "assets/images/experience-page/Anna_University_Logo.svg.png",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "Successfully orchestrated national-level technical symposiums, blending organizational prowess with creativity to deliver seamless and impactful events.",
   },
 ];
 
